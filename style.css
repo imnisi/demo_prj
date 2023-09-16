@@ -5,7 +5,13 @@ h1,
 h2 {
   color: blue;
 }
+<<<<<<< HEAD
 h3 {
   color: blue;
   background-color: brown;
+=======
+h4 {
+  color: chartreuse;
+  background-color: crimson;
+>>>>>>> master
 }
